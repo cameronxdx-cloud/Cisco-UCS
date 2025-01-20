@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interface.md",
+                "file": "Cisco UCS C220 M4S/Interface.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,10 +168,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d258e8a016d62702",
+  "active": "3e176fc497d0f723",
   "lastOpenFiles": [
+    "Cisco UCS C220 M4S",
     "attachments/Pasted image 20250119211436.png",
     "attachments",
-    "Interface.md"
+    "Cisco UCS C220 M4S/Interface.md"
   ]
 }
